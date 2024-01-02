@@ -13,6 +13,9 @@ function App() {
           <span>MOVIE REVIEWS</span>
         </div>
       </Navbar>
+    <button>
+        <a href="https://wa.link/y3jczy">whatsapp</a>
+      </button>
       <div className='notHeader'><MovieReviewClass /></div>
     </div>
   );
